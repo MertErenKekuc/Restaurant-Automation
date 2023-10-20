@@ -17,7 +17,7 @@
 <p></p>
 
 <p align="center">
-- here we display the menu screen, from which all content and settings are accessed
+- Here we display the menu screen, from which all content and settings are accessed
 </p>
 
 <p align="center">
