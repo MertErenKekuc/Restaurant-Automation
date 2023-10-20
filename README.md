@@ -37,10 +37,8 @@
 </p>
 
 <p align="center">
-<div style="display: flex;">
   <img src="https://github.com/MertErenKekuc/Restaurant-Automation/assets/92688288/d3e943e4-58d5-4108-9c07-61a1c019fd74" alt="alt text" width="480" height="270">
   <img src="https://github.com/MertErenKekuc/Restaurant-Automation/assets/92688288/c90b2915-c19c-422d-82ed-bd6e1da079a2" alt="alt text" width="480" height="270">
-</div>
 </p>
 
 <p align="center">
