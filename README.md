@@ -60,6 +60,9 @@
 
 <p align="center">
 - Finally, there are screens where you can view monthly or daily sales reports
+</p>
+
+<p align="center">
 Thank you
 </p>
 
